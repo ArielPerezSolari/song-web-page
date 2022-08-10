@@ -1,0 +1,38 @@
+
+
+body{
+    background-color: black;
+    font-family: 'Cinzel', serif;
+    text-align: center;
+}
+
+strong{
+    color: goldenrod;
+}
+
+.titles{
+    color: aliceblue;
+    font-size: 30px;
+}
+h2, h3{
+    font-weight: 400;
+}
+
+p{
+    color: aliceblue;
+
+}
+
+.album__cover{
+    height: 250px;
+    width: 250px;
+}
+
+.letra{
+    font-size: 16px;
+    text-align: start;
+}
+
+footer{
+    margin-top: 250px;
+}
